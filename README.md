@@ -8,4 +8,4 @@ Na pasta são apresentados 4 arquivos:
 - jogos.py
 - palavras.txt
 
-Os códigos se encontram comentados! Divirtam-se!!!
+Os códigos estão comentados! Divirtam-se!!!
